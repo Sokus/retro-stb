@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1...3.5)
+cmake_minimum_required(VERSION 3.5...3.10)
 project(retro-stb)
 
 if(3DS)
